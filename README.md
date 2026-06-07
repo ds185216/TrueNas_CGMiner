@@ -24,7 +24,7 @@ services:
     container_name: cgminer
     environment:
       - TERM=xterm
-    image: ds185216/cgminer:latest
+    image: ghcr.io/ds185216/cgminer:latest
     privileged: True
     restart: unless-stopped
     stdin_open: True
