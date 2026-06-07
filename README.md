@@ -4,7 +4,7 @@ A CGMiner application to use ASIC crypto miners on your TrueNAS SCALE server
 Connect compatible ASIC miners such as Block Erupters to your TrueNAS SCALE server.
 
 Installation:
-- Login your TrueNNAS config page.
+- Login your TrueNAS config page.
 - Select Apps
 - Select 'Discover Apps'
 - Click the Three Dots and select 'Install via YAML'
